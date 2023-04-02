@@ -4,7 +4,7 @@
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
-👎
+
 # Hello GitHub Actions
 
 _Create a GitHub Action and use it in a workflow._
@@ -20,7 +20,6 @@ _Create a GitHub Action and use it in a workflow._
 
 <details id=0>
 <summary><h2>Welcome</h2></summary>
-
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
 - **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
@@ -256,13 +255,13 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another GitHub Skills course](https://github.com/skills).
 - Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" docs.
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
+👍
 </details>
 
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
--->
+--> 
 
 ---
 
